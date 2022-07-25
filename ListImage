@@ -1,0 +1,16 @@
+        List<Bitmap> imageResources = new List<Bitmap>()
+        {
+            Properties.Resources.badger,Properties.Resources.badger,Properties.Resources.eel,Properties.Resources.eel,
+            Properties.Resources.hamster,Properties.Resources.hamster,Properties.Resources.jaguar,Properties.Resources.jaguar,
+            Properties.Resources.lion,Properties.Resources.lion,Properties.Resources.octopus,Properties.Resources.octopus,
+            Properties.Resources.seagull,Properties.Resources.seagull,Properties.Resources.seal,Properties.Resources.seal
+
+        };
+        List<string> ImagePath = new List<string>()
+        {
+            
+            "icons/badger.jpg","icons/badger.jpg","icons/eel.jpg","icons/eel.jpg",
+            "icons/hamster.jpg","icons/hamster.jpg","icons/jaguar.jpg","icons/jaguar.jpg",
+            "icons/lion.jpg","icons/lion.jpg","icons/octopus.jpg","icons/octopus.jpg",
+            "icons/seagull.jpg","icons/seagull.jpg","icons/seal.jpg","icons/seal.jpg"
+        };
