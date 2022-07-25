@@ -1,0 +1,16 @@
+            pic1.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic2.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic3.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic4.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic5.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic6.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic7.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic8.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic9.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic10.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic11.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic12.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic13.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic14.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic15.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
+            pic16.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("icons/front.jpg");
