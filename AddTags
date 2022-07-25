@@ -1,0 +1,38 @@
+  private void AddTags (int index)
+        {
+            switch (index)
+            {
+                case 0:
+                case 1:
+                    imageResources[index].Tag = "badger";
+                    break;
+                case 2:
+                case 3:
+                    imageResources[index].Tag = "eel";
+                    break;
+                case 4:
+                case 5:
+                    imageResources[index].Tag = "hamster";
+                    break;
+                case 6:
+                case 7:
+                    imageResources[index].Tag = "jaguar";
+                    break;
+                case 8:
+                case 9:
+                    imageResources[index].Tag = "lion";
+                    break;
+                case 10:
+                case 11:
+                    imageResources[index].Tag = "octopus";
+                    break;
+                case 12:
+                case 13:
+                    imageResources[index].Tag = "seagull";
+                    break;
+                case 14:
+                case 15:
+                    imageResources[index].Tag = "seal";
+                    break;
+            }
+        }
