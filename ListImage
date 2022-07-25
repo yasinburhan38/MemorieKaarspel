@@ -6,7 +6,7 @@
             Properties.Resources.seagull,Properties.Resources.seagull,Properties.Resources.seal,Properties.Resources.seal
 
         };
-        List<string> ImagePath = new List<string>()
+        List<string> imagePath = new List<string>()
         {
             
             "icons/badger.jpg","icons/badger.jpg","icons/eel.jpg","icons/eel.jpg",
