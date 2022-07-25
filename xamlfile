@@ -1,0 +1,16 @@
+        <Image x:Name="pic1" HorizontalAlignment="Left" Height="150" Margin="27,19,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic2" HorizontalAlignment="Left" Height="150" Margin="177,19,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic3" HorizontalAlignment="Left" Height="150" Margin="327,19,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic4" HorizontalAlignment="Left" Height="150" Margin="477,19,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic5" HorizontalAlignment="Left" Height="150" Margin="27,169,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic6" HorizontalAlignment="Left" Height="150" Margin="177,169,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic7" HorizontalAlignment="Left" Height="150" Margin="327,169,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic8" HorizontalAlignment="Left" Height="150" Margin="477,169,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic9" HorizontalAlignment="Left" Height="150" Margin="27,319,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic10" HorizontalAlignment="Left" Height="150" Margin="177,319,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic11" HorizontalAlignment="Left" Height="150" Margin="327,319,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic12" HorizontalAlignment="Left" Height="150" Margin="477,319,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic13" HorizontalAlignment="Left" Height="150" Margin="27,469,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic14" HorizontalAlignment="Left" Height="150" Margin="177,469,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic15" HorizontalAlignment="Left" Height="150" Margin="327,469,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
+        <Image x:Name="pic16" HorizontalAlignment="Left" Height="150" Margin="477,469,0,0" VerticalAlignment="Top" Width="150" MouseDown="picture_Click"/>
