@@ -1,10 +1,9 @@
-        List<Bitmap> imageResources = new List<Bitmap>()
+         List<string> tagList = new List<string>()
         {
-            Properties.Resources.badger,Properties.Resources.badger,Properties.Resources.eel,Properties.Resources.eel,
-            Properties.Resources.hamster,Properties.Resources.hamster,Properties.Resources.jaguar,Properties.Resources.jaguar,
-            Properties.Resources.lion,Properties.Resources.lion,Properties.Resources.octopus,Properties.Resources.octopus,
-            Properties.Resources.seagull,Properties.Resources.seagull,Properties.Resources.seal,Properties.Resources.seal
-
+            "badger","badger","eel","eel",
+            "hamster","hamster","jaguar","jaguar",
+            "lion","lion","octopus","octopus",
+            "seagull","seagull","seal","seal"
         };
         List<string> imagePath = new List<string>()
         {
